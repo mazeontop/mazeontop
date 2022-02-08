@@ -2,4 +2,4 @@
 
 - 🔭 I’m currently working on ... Flak & Maze.
 - 📫 How to reach me: ... @mazeontop - Twitter
-<img src="https://github-readme-stats.vercel.app/api?username=mazeontop&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api?username=mazeontop&&show_icons=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=FFFFFF">
